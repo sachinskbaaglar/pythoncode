@@ -8,11 +8,10 @@ course=input("please enter your course")
 print("")
 contact=int(input("please enter your contact"))
 print("")
-
 print("The name you have entered is",full_name)
 
-print("The name you have entered is",age)
+print("The age you have entered is",age)
 
-print("The name you have entered is",course)
+print("The course you have entered is",course)
 
-print("The name you have entered is",contact)
+print("The contact you have entered is",contact)
